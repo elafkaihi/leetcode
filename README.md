@@ -22,7 +22,7 @@ Celebrate your journey by tracking your progress with emojis! 🎉 :
 
 | Day | 🌟 | Problem | Solution |
 | --- | -- | ------- | -------- |
-| 1   | ✅ | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode) |
+| 1   | ✅ | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/merge_sorted_array.py) |
 
 
 ## Guidelines
