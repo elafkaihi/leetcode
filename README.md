@@ -16,6 +16,15 @@ Are you ready to level up your coding skills and conquer LeetCode like a pro? Th
 6. **Push** the changes to your forked repository.
 7. **Create a Pull Request** to merge your solution into the main branch of your forked repository.
 
+## Progress Tracker
+
+Celebrate your journey by tracking your progress with emojis! 🎉 :
+
+| Day | 🌟 | Problem | Solution |
+| --- | -- | ------- | -------- |
+| 1   | ✅ | [Merge Sorted Array]([link](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)) | [Solution]([link](https://github.com/ElMehdiiiii/leetcode)) |
+
+
 ## Guidelines
 
 - **Consistency is Key:** Aim to solve at least one LeetCode problem every day for 150 days straight. Even on busy days, dedicate some time to sharpening your skills.
