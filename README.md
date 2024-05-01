@@ -24,7 +24,7 @@ Celebrate your journey by tracking your progress with emojis! 🎉 :
 | --- | -- | ------- | -------- |
 | 1   | ✅ | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/merge_sorted_array.py) |
 | 2   | ✅ | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/merge_sorted_array.py)|
-
+| 3 | ✅ | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/emove-duplicates-from-sorted-array-ii.py) |
 ## Guidelines
 
 - **Consistency is Key:** Aim to solve at least one LeetCode problem every day for 150 days straight. Even on busy days, dedicate some time to sharpening your skills.
