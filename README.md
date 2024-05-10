@@ -26,6 +26,9 @@ Celebrate your journey by tracking your progress with emojis! 🎉 :
 | 2   | ✅ | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/merge_sorted_array.py)|
 | 3 | ✅ | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/emove-duplicates-from-sorted-array-ii.py) |
 | 4 | ✅ | [majority-element](https://leetcode.com/problems/majority-element/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/majority-element.py) |
+| 5 | ✅ | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
+
+
 ## Guidelines
 
 - **Consistency is Key:** Aim to solve at least one LeetCode problem every day for 150 days straight. Even on busy days, dedicate some time to sharpening your skills.
