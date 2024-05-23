@@ -30,6 +30,8 @@ Celebrate your journey by tracking your progress with emojis! 🎉 :
 | 6 | ✅ | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20ll.py) |
 | 7 | ✅ | [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/jump-game.py) |
 | 8 | ✅ | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Roman%20to%20Integer) |
+| 9 | ✅ | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Integer%20to%20Roman.py) |
+
 
 ## Guidelines
 
