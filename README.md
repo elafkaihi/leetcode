@@ -31,6 +31,7 @@ Celebrate your journey by tracking your progress with emojis! 🎉 :
 | 7 | ✅ | [Jump Game](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/jump-game.py) |
 | 8 | ✅ | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Roman%20to%20Integer) |
 | 9 | ✅ | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Integer%20to%20Roman.py) |
+| 10 | ✅ | [Two Integer Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/Two%20Sum.py) |
 
 
 ## Guidelines
