@@ -32,6 +32,14 @@ Celebrate your journey by tracking your progress with emojis! 🎉 :
 | 8 | ✅ | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Roman%20to%20Integer) |
 | 9 | ✅ | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150) | [Solution](https://github.com/ElMehdiiiii/leetcode/blob/main/Integer%20to%20Roman.py) |
 | 10 | ✅ | [Two Integer Sum](https://leetcode.com/problems/two-sum/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/Two%20Sum.py) |
+| 11 | ✅ | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/Valid_Anagram.py) |
+| 12 | ✅ | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/Anagram_Groups.py) |
+| 13 | ✅ | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/top-k-elements-in-list.py) |
+| 14 | ✅ | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/string-encode-and-decode.py) |
+| 15 | ✅ | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/products-of-array-discluding-self.py) |
+| 16 | ✅ | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/valid-sudoku.py) |
+| 17 | ✅ | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Solution](https://github.com/elafkaihi/leetcode/blob/main/longest-consecutive-sequence.py) |
+
 
 
 ## Guidelines
