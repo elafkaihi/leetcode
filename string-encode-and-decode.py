@@ -19,4 +19,3 @@ class Solution:
             liste.append(word)
             i = number + 1 + j
         return liste
-2#we3#say1#:3#yes10#!@#$%^&*()
